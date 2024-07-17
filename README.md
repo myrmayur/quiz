@@ -4,7 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 <p align="center">
-    <img src="https://i.imgur.com/NtxQwtR.gif">
+    <img src="https://github.com/myrmayur/quiz/blob/master/public/quiz.png">
 </p>
 
 This is a sample Quiz app using React Hooks (useReducer() + useContext()).
